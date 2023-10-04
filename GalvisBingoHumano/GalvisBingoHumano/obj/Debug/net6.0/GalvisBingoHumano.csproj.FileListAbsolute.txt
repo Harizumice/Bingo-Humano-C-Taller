@@ -1,0 +1,14 @@
+E:\GalvisBingoHumano\GalvisBingoHumano\bin\Debug\net6.0\GalvisBingoHumano.exe
+E:\GalvisBingoHumano\GalvisBingoHumano\bin\Debug\net6.0\GalvisBingoHumano.deps.json
+E:\GalvisBingoHumano\GalvisBingoHumano\bin\Debug\net6.0\GalvisBingoHumano.runtimeconfig.json
+E:\GalvisBingoHumano\GalvisBingoHumano\bin\Debug\net6.0\GalvisBingoHumano.dll
+E:\GalvisBingoHumano\GalvisBingoHumano\bin\Debug\net6.0\GalvisBingoHumano.pdb
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.GeneratedMSBuildEditorConfig.editorconfig
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.AssemblyInfoInputs.cache
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.AssemblyInfo.cs
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.csproj.CoreCompileInputs.cache
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.dll
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\refint\GalvisBingoHumano.dll
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.pdb
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\GalvisBingoHumano.genruntimeconfig.cache
+E:\GalvisBingoHumano\GalvisBingoHumano\obj\Debug\net6.0\ref\GalvisBingoHumano.dll
